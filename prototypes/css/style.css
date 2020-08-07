@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Montserrat&display=swap');
+html{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+}
+h1{
+    font-family: 'Bungee', cursive;
+    font-size: 64px;
+}
