@@ -1,5 +1,9 @@
 # NachosAreAwesome
 
+## Nacho Power Rankings is going functional!
+
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
